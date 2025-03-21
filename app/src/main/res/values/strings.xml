@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SchedulerApp</string>
+    <string name="settings">Настройки</string>
+    <string name="load_schedule">Загрузить расписание</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="no_lessons">Нет занятий в этот день</string>
+    <string name="export_schedule">Экспорт расписания</string>
+    <string name="import_schedule_summary">Загрузить расписание из CSV-файла</string>
+    
+    <!-- Missing strings that are causing the build error -->
+    <string name="appearance">Внешний вид</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="dark_theme_summary">Включить темную тему приложения</string>
+    <string name="notifications">Уведомления</string>
+    <string name="enable_notifications">Включить уведомления</string>
+    <string name="enable_notifications_summary">Получать уведомления о предстоящих занятиях</string>
+    <string name="notification_time">Время уведомления</string>
+    <string name="notification_time_summary">За сколько минут до занятия показывать уведомление</string>
+    <string name="data">Данные</string>
+    <string name="import_schedule">Импорт расписания</string>
+</resources>
+

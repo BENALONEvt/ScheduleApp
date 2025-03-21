@@ -1,0 +1,52 @@
+com.example.schedulerapp-startup-runtime-1.1.1-0 C:\Users\admin\.gradle\caches\transforms-3\02cbcf06ab341f5a56acc07d0c27625b\transformed\startup-runtime-1.1.1\res
+com.example.schedulerapp-sqlite-2.3.0-1 C:\Users\admin\.gradle\caches\transforms-3\12bd4f9af33586b21dd458dd3522497e\transformed\sqlite-2.3.0\res
+com.example.schedulerapp-transition-1.4.1-2 C:\Users\admin\.gradle\caches\transforms-3\14ad0f1163c6af8a09d7be3339e44174\transformed\transition-1.4.1\res
+com.example.schedulerapp-appcompat-resources-1.6.1-3 C:\Users\admin\.gradle\caches\transforms-3\1ade6add423d933b392f2e196ffc9af7\transformed\appcompat-resources-1.6.1\res
+com.example.schedulerapp-lifecycle-service-2.7.0-4 C:\Users\admin\.gradle\caches\transforms-3\1bc7f07444b8d2ec76bea590fc853fda\transformed\lifecycle-service-2.7.0\res
+com.example.schedulerapp-constraintlayout-2.1.4-5 C:\Users\admin\.gradle\caches\transforms-3\22c857a43812e1c557dc41c556b1c293\transformed\constraintlayout-2.1.4\res
+com.example.schedulerapp-room-runtime-2.5.0-6 C:\Users\admin\.gradle\caches\transforms-3\24955bdd47ac4911770bb22ab48dc39f\transformed\room-runtime-2.5.0\res
+com.example.schedulerapp-recyclerview-1.1.0-7 C:\Users\admin\.gradle\caches\transforms-3\26ad1cbcee87a3238efeb84f4f444604\transformed\recyclerview-1.1.0\res
+com.example.schedulerapp-preference-1.2.1-8 C:\Users\admin\.gradle\caches\transforms-3\28a9d34dcab3b1961469966351b162ab\transformed\preference-1.2.1\res
+com.example.schedulerapp-lifecycle-livedata-ktx-2.7.0-9 C:\Users\admin\.gradle\caches\transforms-3\347569cc9bd184bd67e9646a9f631c18\transformed\lifecycle-livedata-ktx-2.7.0\res
+com.example.schedulerapp-lifecycle-process-2.7.0-10 C:\Users\admin\.gradle\caches\transforms-3\35348e58ad61f288b532028d84aa5216\transformed\lifecycle-process-2.7.0\res
+com.example.schedulerapp-lifecycle-runtime-ktx-2.7.0-11 C:\Users\admin\.gradle\caches\transforms-3\38f23fc3643e282fb098c8f9c381a452\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.example.schedulerapp-lifecycle-livedata-core-ktx-2.7.0-12 C:\Users\admin\.gradle\caches\transforms-3\3c5b92428672d7b7cb12d171f9574c62\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.example.schedulerapp-drawerlayout-1.1.1-13 C:\Users\admin\.gradle\caches\transforms-3\417519495fb32bc278230a344aae4372\transformed\drawerlayout-1.1.1\res
+com.example.schedulerapp-slidingpanelayout-1.2.0-14 C:\Users\admin\.gradle\caches\transforms-3\43c989241fe3b142fe765e4b17c20529\transformed\slidingpanelayout-1.2.0\res
+com.example.schedulerapp-annotation-experimental-1.3.0-15 C:\Users\admin\.gradle\caches\transforms-3\4ed0903b37c5be16c6d3822fc546771c\transformed\annotation-experimental-1.3.0\res
+com.example.schedulerapp-lifecycle-viewmodel-ktx-2.7.0-16 C:\Users\admin\.gradle\caches\transforms-3\621195a8024441609fba06ce30d40378\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.example.schedulerapp-savedstate-1.2.1-17 C:\Users\admin\.gradle\caches\transforms-3\6519078b0829703ebe90bf30afdf3044\transformed\savedstate-1.2.1\res
+com.example.schedulerapp-lifecycle-livedata-core-2.7.0-18 C:\Users\admin\.gradle\caches\transforms-3\654e4694c97a9510982ab294153dfa2e\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.schedulerapp-cardview-1.0.0-19 C:\Users\admin\.gradle\caches\transforms-3\75b680532b179f4d314df13e46a1aac3\transformed\cardview-1.0.0\res
+com.example.schedulerapp-lifecycle-viewmodel-savedstate-2.7.0-20 C:\Users\admin\.gradle\caches\transforms-3\7b98f1cf07e6312919744582c8889601\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.schedulerapp-coordinatorlayout-1.1.0-21 C:\Users\admin\.gradle\caches\transforms-3\8295354b01954dbd38bd46158a63218d\transformed\coordinatorlayout-1.1.0\res
+com.example.schedulerapp-preference-ktx-1.2.1-22 C:\Users\admin\.gradle\caches\transforms-3\83c5baf6cd3591d8a3eecbb324a8798e\transformed\preference-ktx-1.2.1\res
+com.example.schedulerapp-core-runtime-2.2.0-23 C:\Users\admin\.gradle\caches\transforms-3\89d55e4d76c63fcc2b94bed3b57a88a1\transformed\core-runtime-2.2.0\res
+com.example.schedulerapp-viewpager2-1.0.0-24 C:\Users\admin\.gradle\caches\transforms-3\8e6a6703d5c2acd086bf50dfe6102d73\transformed\viewpager2-1.0.0\res
+com.example.schedulerapp-lifecycle-viewmodel-2.7.0-25 C:\Users\admin\.gradle\caches\transforms-3\942fc77c8c92a8b324d727e8a526cbd6\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.schedulerapp-activity-ktx-1.8.2-26 C:\Users\admin\.gradle\caches\transforms-3\a27f7837b8f56a49619b733fc1d3f226\transformed\activity-ktx-1.8.2\res
+com.example.schedulerapp-work-runtime-ktx-2.9.0-27 C:\Users\admin\.gradle\caches\transforms-3\b2c77345b9f70f38e6c9a8a09d0ad7e5\transformed\work-runtime-ktx-2.9.0\res
+com.example.schedulerapp-lifecycle-livedata-2.7.0-28 C:\Users\admin\.gradle\caches\transforms-3\b4af3a28edb8d503eb56d8359589819f\transformed\lifecycle-livedata-2.7.0\res
+com.example.schedulerapp-material-1.11.0-29 C:\Users\admin\.gradle\caches\transforms-3\b982d09c93fc2cd4b19ec27a22cce2d4\transformed\material-1.11.0\res
+com.example.schedulerapp-room-ktx-2.5.0-30 C:\Users\admin\.gradle\caches\transforms-3\bf1e782d5fbffbc0909aa5b389bfb462\transformed\room-ktx-2.5.0\res
+com.example.schedulerapp-fragment-ktx-1.6.2-31 C:\Users\admin\.gradle\caches\transforms-3\cb0d4a0da21ff17bd28864d857fd366f\transformed\fragment-ktx-1.6.2\res
+com.example.schedulerapp-lifecycle-runtime-2.7.0-32 C:\Users\admin\.gradle\caches\transforms-3\d16a2e7c313836bc438d174fb72ba984\transformed\lifecycle-runtime-2.7.0\res
+com.example.schedulerapp-window-1.0.0-33 C:\Users\admin\.gradle\caches\transforms-3\d37bd0d456da8629b8dbc180c3e6b86b\transformed\window-1.0.0\res
+com.example.schedulerapp-sqlite-framework-2.3.0-34 C:\Users\admin\.gradle\caches\transforms-3\d58aa5256068afde0f7c6c780d3778d7\transformed\sqlite-framework-2.3.0\res
+com.example.schedulerapp-emoji2-views-helper-1.2.0-35 C:\Users\admin\.gradle\caches\transforms-3\d88062c0f9ffffb9883a7f41091f1d55\transformed\emoji2-views-helper-1.2.0\res
+com.example.schedulerapp-core-1.12.0-36 C:\Users\admin\.gradle\caches\transforms-3\db9835d7c9a5e9f2ebb72d107e0a0b90\transformed\core-1.12.0\res
+com.example.schedulerapp-fragment-1.6.2-37 C:\Users\admin\.gradle\caches\transforms-3\de1c1b8ceec681cc03ea816ff3460885\transformed\fragment-1.6.2\res
+com.example.schedulerapp-activity-1.8.2-38 C:\Users\admin\.gradle\caches\transforms-3\e238eea4c019487cab1b70dd09193f72\transformed\activity-1.8.2\res
+com.example.schedulerapp-emoji2-1.2.0-39 C:\Users\admin\.gradle\caches\transforms-3\e9b69f46a8265cfe19ffdec3412d90ad\transformed\emoji2-1.2.0\res
+com.example.schedulerapp-appcompat-1.6.1-40 C:\Users\admin\.gradle\caches\transforms-3\ec05333aab07495ebab8965e83b3417b\transformed\appcompat-1.6.1\res
+com.example.schedulerapp-work-runtime-2.9.0-41 C:\Users\admin\.gradle\caches\transforms-3\f243565391504c2563394260a6eeefb3\transformed\work-runtime-2.9.0\res
+com.example.schedulerapp-profileinstaller-1.3.0-42 C:\Users\admin\.gradle\caches\transforms-3\f9e911eaa083bf8acf667fe30eef8b50\transformed\profileinstaller-1.3.0\res
+com.example.schedulerapp-core-ktx-1.12.0-43 C:\Users\admin\.gradle\caches\transforms-3\fe816d8cb94746d4bdf8919e26c67acb\transformed\core-ktx-1.12.0\res
+com.example.schedulerapp-savedstate-ktx-1.2.1-44 C:\Users\admin\.gradle\caches\transforms-3\ffe793295cc952d997220e4468c03d2f\transformed\savedstate-ktx-1.2.1\res
+com.example.schedulerapp-pngs-45 C:\Users\admin\smartschedule - Copy\app\build\generated\res\pngs\debug
+com.example.schedulerapp-resValues-46 C:\Users\admin\smartschedule - Copy\app\build\generated\res\resValues\debug
+com.example.schedulerapp-packageDebugResources-47 C:\Users\admin\smartschedule - Copy\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.schedulerapp-packageDebugResources-48 C:\Users\admin\smartschedule - Copy\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.schedulerapp-merged_res-49 C:\Users\admin\smartschedule - Copy\app\build\intermediates\merged_res\debug
+com.example.schedulerapp-debug-50 C:\Users\admin\smartschedule - Copy\app\src\debug\res
+com.example.schedulerapp-main-51 C:\Users\admin\smartschedule - Copy\app\src\main\res

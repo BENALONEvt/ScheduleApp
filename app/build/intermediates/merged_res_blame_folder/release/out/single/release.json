@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_ic_settings.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_ic_notification.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_schedule_widget_fallback.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/layout/schedule_widget_fallback.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_logo_background.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/logo_background.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/menu_main_menu.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/xml_root_preferences.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/xml/root_preferences.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_config_card_background.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/config_card_background.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_lesson_item_background.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/lesson_item_background.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_activity_main.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_ic_refresh.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/xml_minimal_widget_info.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/xml/minimal_widget_info.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_ic_load_schedule.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/ic_load_schedule.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_ic_export_schedule.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/ic_export_schedule.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_fragment_day.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/layout/fragment_day.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/xml_basic_widget_info.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/xml/basic_widget_info.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_basic_widget_layout.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/layout/basic_widget_layout.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_widget_preview.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/widget_preview.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_minimal_widget.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/layout/minimal_widget.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_widget_background_shape.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/widget_background_shape.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_schedule_widget.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/layout/schedule_widget.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_item_lesson.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/layout/item_lesson.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_widget_lesson_item.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/layout/widget_lesson_item.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_widget_background.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/widget_background.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_activity_widget_config.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/layout/activity_widget_config.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/xml_schedule_widget_info.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/xml/schedule_widget_info.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/xml_file_paths.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/xml_backup_rules.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_activity_settings.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_activity_splash.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.schedulerapp-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

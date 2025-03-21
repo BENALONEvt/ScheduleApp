@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notification_time_entries">
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>60 минут</item>
+    </string-array>
+    <string-array name="notification_time_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+    </string-array>
+    <color name="accent">#000</color>
+    <color name="background">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="primary">#333</color>
+    <color name="primary_dark">#000</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#333</color>
+    <string name="app_name">SchedulerApp</string>
+    <string name="appearance">Внешний вид</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="dark_theme_summary">Включить темную тему приложения</string>
+    <string name="data">Данные</string>
+    <string name="enable_notifications">Включить уведомления</string>
+    <string name="enable_notifications_summary">Получать уведомления о предстоящих занятиях</string>
+    <string name="export_schedule">Экспорт расписания</string>
+    <string name="import_schedule">Импорт расписания</string>
+    <string name="import_schedule_summary">Загрузить расписание из CSV-файла</string>
+    <string name="load_schedule">Загрузить расписание</string>
+    <string name="no_lessons">Нет занятий в этот день</string>
+    <string name="notification_time">Время уведомления</string>
+    <string name="notification_time_summary">За сколько минут до занятия показывать уведомление</string>
+    <string name="notifications">Уведомления</string>
+    <string name="settings">Настройки</string>
+    <string name="title_activity_settings">Настройки</string>
+    <style name="Theme.SchedulerApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+    <style name="Theme.SchedulerApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

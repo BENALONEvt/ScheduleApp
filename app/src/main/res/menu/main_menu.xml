@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_load_schedule"
+        android:title="@string/load_schedule"
+        android:icon="@drawable/ic_load_schedule"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_export_schedule"
+        android:title="@string/export_schedule"
+        android:icon="@drawable/ic_export_schedule"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_update_widgets"
+        android:title="Обновить виджеты"
+        android:icon="@drawable/ic_refresh"
+        app:showAsAction="never" />
+</menu>
+

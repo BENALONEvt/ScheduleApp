@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="@drawable/lesson_item_background"
+    android:layout_marginBottom="6dp">
+
+    <!-- Subject name -->
+    <TextView
+        android:id="@+id/lesson_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Название предмета"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:ellipsize="end"
+        android:maxLines="1" />
+
+    <!-- Time and classroom -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="4dp">
+
+        <TextView
+            android:id="@+id/lesson_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="09:00 - 10:30"
+            android:textColor="#E0E0E0"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" • "
+            android:textColor="#E0E0E0"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/lesson_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ауд. 101"
+            android:textColor="#E0E0E0"
+            android:textSize="12sp" />
+    </LinearLayout>
+</LinearLayout>
+

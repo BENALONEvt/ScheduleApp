@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.schedulerapp-mergeReleaseResources-48:/layout/fragment_day.xml",
+        "source": "com.example.schedulerapp-main-50:/layout/fragment_day.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-mergeReleaseResources-48:/layout/basic_widget_layout.xml",
+        "source": "com.example.schedulerapp-main-50:/layout/basic_widget_layout.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-mergeReleaseResources-48:/layout/activity_widget_config.xml",
+        "source": "com.example.schedulerapp-main-50:/layout/activity_widget_config.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-mergeReleaseResources-48:/layout/activity_main.xml",
+        "source": "com.example.schedulerapp-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-mergeReleaseResources-48:/layout/schedule_widget_fallback.xml",
+        "source": "com.example.schedulerapp-main-50:/layout/schedule_widget_fallback.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-mergeReleaseResources-48:/layout/minimal_widget.xml",
+        "source": "com.example.schedulerapp-main-50:/layout/minimal_widget.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-mergeReleaseResources-48:/layout/item_lesson.xml",
+        "source": "com.example.schedulerapp-main-50:/layout/item_lesson.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-mergeReleaseResources-48:/layout/schedule_widget.xml",
+        "source": "com.example.schedulerapp-main-50:/layout/schedule_widget.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-mergeReleaseResources-48:/layout/widget_lesson_item.xml",
+        "source": "com.example.schedulerapp-main-50:/layout/widget_lesson_item.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-mergeReleaseResources-48:/layout/activity_splash.xml",
+        "source": "com.example.schedulerapp-main-50:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-mergeReleaseResources-48:/layout/activity_settings.xml",
+        "source": "com.example.schedulerapp-main-50:/layout/activity_settings.xml"
+    }
+]

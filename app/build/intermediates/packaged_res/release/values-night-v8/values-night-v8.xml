@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#fff</color>
+    <color name="background">#121212</color>
+    <color name="card_background">#2D2D2D</color>
+    <color name="primary">#333</color>
+    <color name="primary_dark">#000</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <style name="PopupMenu" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:background">@color/primary_dark</item>
+    </style>
+    <style name="Theme.SchedulerApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+</resources>

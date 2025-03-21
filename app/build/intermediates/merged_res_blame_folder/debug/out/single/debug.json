@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\xml_schedule_widget_info.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\xml\\schedule_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\layout_item_lesson.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\item_lesson.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\layout_schedule_widget.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\schedule_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_widget_background_shape.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\widget_background_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_ic_export_schedule.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\ic_export_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\layout_activity_widget_config.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\activity_widget_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\layout_minimal_widget.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\minimal_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_ic_load_schedule.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\ic_load_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_lesson_item_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\lesson_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\layout_basic_widget_layout.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\basic_widget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_widget_preview.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\widget_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\xml_basic_widget_info.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\xml\\basic_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_config_card_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\config_card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_logo_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\logo_background.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-merged_res-49:/layout_activity_widget_config.xml.flat",
+        "source": "com.example.schedulerapp-main-51:/layout/activity_widget_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\layout_fragment_day.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\fragment_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_widget_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\widget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\layout_widget_lesson_item.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\widget_lesson_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\xml_preferences_modern.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\xml\\preferences_modern.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\layout_schedule_widget_fallback.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\schedule_widget_fallback.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\xml_minimal_widget_info.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\xml\\minimal_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-merged_res-49:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\activity_settings.xml"
+    }
+]

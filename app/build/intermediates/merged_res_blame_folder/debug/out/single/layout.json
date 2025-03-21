@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-mergeDebugResources-48:\\layout\\fragment_day.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\fragment_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-mergeDebugResources-48:\\layout\\schedule_widget_fallback.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\schedule_widget_fallback.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-mergeDebugResources-48:\\layout\\activity_widget_config.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\activity_widget_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-mergeDebugResources-48:\\layout\\minimal_widget.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\minimal_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-mergeDebugResources-48:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-mergeDebugResources-48:\\layout\\item_lesson.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\item_lesson.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-mergeDebugResources-48:\\layout\\widget_lesson_item.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\widget_lesson_item.xml"
+    },
+    {
+        "merged": "com.example.schedulerapp-mergeDebugResources-48:/layout/activity_widget_config.xml",
+        "source": "com.example.schedulerapp-main-51:/layout/activity_widget_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-mergeDebugResources-48:\\layout\\schedule_widget.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\schedule_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-mergeDebugResources-48:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-mergeDebugResources-48:\\layout\\basic_widget_layout.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.example.schedulerapp-main-51:\\layout\\basic_widget_layout.xml"
+    }
+]
